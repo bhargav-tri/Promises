@@ -145,7 +145,7 @@ const postDetails = (
 // const productcount = products.map((item) => {
 //   tc += item.count;
 //   return tc;
-//   // console.log(tc);
+//    console.log(tc);
 // });
 // console.log(productcount);
 
